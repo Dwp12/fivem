@@ -1,2 +1,4 @@
-Niccolopriv:{GUID_BURAYA}
-:{}
+version:1.0
+
+hwid:abc123def4567890:Niccolopriv:Niccolopriv
+hwid:fedcba9876543210:Test user:Test user

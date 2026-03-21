@@ -1,4 +1,1 @@
-version:1.0
-
-hwid:abc123def4567890:Niccolopriv:Niccolopriv
-hwid:fedcba9876543210:Test user:Test user
+{8e298d5c-1fa6-11f1-9e75-806e6f6e6963}

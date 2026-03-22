@@ -1,1 +1,34 @@
-{8e298d5c-1fa6-11f1-9e75-806e6f6e6963}
+{
+  "users": [
+    {
+      "username": "Niccolopriv",
+      "password": "1234",
+      "hwid": "123456789ABCDEF",
+      "created_date": "2026-03-23",
+      "expiry_date": "2028-04-23",
+      "days_left": 200,
+      "is_active": true,
+      "role": "Developer"
+    },
+    {
+      "username": "test",
+      "password": "test123",
+      "hwid": "auto_bind_first_login",
+      "created_date": "2026-03-23",
+      "expiry_date": "2026-04-23",
+      "days_left": 30,
+      "is_active": true,
+      "role": "standard"
+    }
+  ],
+  "config": {
+    "version": "1.0",
+    "maintenance": false,
+    "message": "Welcome to Stotif Loader",
+    "force_update": false
+  },
+  "blacklist": [
+    "BANNED_HWID_123",
+    "BANNED_HWID_456"
+  ]
+}
